@@ -1,13 +1,11 @@
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![NextJs](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Mui](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
-![Styled Components](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Netlify](https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 
 <div align="center">
-  <h1>nextjs-ts-mui5-scss-storybook-starter📕</h1>
-  <p>Next.js + TypeScript + Material UI v5 + Sass + Storybook starter📕 with linting & prettier pre-configured</p>
-  <p>Made by <a href="https://ridho-homepage.vercel.app/">M Ridho Anshory</a></p>
+  <h1>nextjs-mui5-storybook-starter📕</h1>
+  <p>Next.js + Material UI v5 + Storybook starter📕 with linting & prettier pre-configured</p>
+  <p>Made by <a href="https://lovelyangel.us/">Xiao Yun</a></p>
 </div>
 
 ## Getting Started
@@ -24,7 +22,7 @@
 2. Using `create-next-app`
 
    ```bash
-   npx create-next-app -e https://github.com/RidhoAnshory/nextjs-ts-mui5-scss-storybook-starter your-project-name
+   npx create-next-app -e https://github.com/super0719/next-storybook-mui5-eslint-starter your-project-name
    ```
 ### Run the repository
 First, install the dependencies:
@@ -45,9 +43,9 @@ yarn dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
